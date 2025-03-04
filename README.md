@@ -25,12 +25,12 @@
 🔹 Generates Buy/Sell signals based on moving average trends.
 🔹 Backtested with an initial capital of ₹1,00,000 to analyze profitability.
 
-
 🔗 **GitHub Repository**: [SMA Backtesting](https://github.com/Kuldeep-Baghel/PythonProjects/tree/main/Project1_%20SMA_Crossover_Backtesting)  
 
 ---
 
 ### 📊 Sharpe Ratio Calculation & Risk-Adjusted Returns
+
 🔹 Measures risk-adjusted returns for different asset classes.
 🔹 Analyzes historical stock data to assess investment performance.
 🔹 Uses Sharpe Ratio to compare returns relative to portfolio risk.
@@ -39,6 +39,7 @@
 
 ---
 🛠 Skills & Tools
+
 💡 Programming: Python (Pandas, Numpy, Matplotlib)
 💡 Market Data Sources: Yahoo Finance (yFinance), Alpha Vantage
 💡 Trading Strategies: SMA Crossovers, Trend-Based Strategies, Portfolio Performance Analysis
