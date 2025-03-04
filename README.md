@@ -8,8 +8,11 @@
 🚀 What I Do
 
 ✅ Backtesting Trading Strategies – Implementing, optimizing, and evaluating market strategies using historical data.
+
 ✅ Financial Modeling & Data Analysis – Developing models for equity research and portfolio performance assessment.
+
 ✅ Algorithmic Trading & Risk Management – Exploring systematic trading approaches with Python & financial libraries.
+
 ✅ Portfolio Optimization – Assessing asset performance using key financial metrics like Sharpe Ratio & ROI.
 
 ---
@@ -17,13 +20,14 @@
 ## 🚀 Featured Projects  
 
 ### 📈 SMA Crossover Backtesting Strategy
+
 🔹 Implements Golden Cross & Death Cross strategy using 50-SMA and 200-SMA.
 🔹 Generates Buy/Sell signals based on moving average trends.
 🔹 Backtested with an initial capital of ₹1,00,000 to analyze profitability.
 🔹 Key Takeaways:
-✅ Backtesting framework with yFinance, Pandas, and Matplotlib.
-✅ Trade execution & logging for tracking historical orders.
-✅ Equity curve visualization for portfolio performance analysis.
+    ✅ Backtesting framework with yFinance, Pandas, and Matplotlib.
+    ✅ Trade execution & logging for tracking historical orders.
+    ✅ Equity curve visualization for portfolio performance analysis.
 
 🔗 **GitHub Repository**: [SMA Backtesting](https://github.com/Kuldeep-Baghel/PythonProjects/tree/main/Project1_%20SMA_Crossover_Backtesting)  
 
