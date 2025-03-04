@@ -6,7 +6,9 @@
 
 ---
 🚀 What I Do
+
 ✅ Backtesting Trading Strategies – Implementing, optimizing, and evaluating market strategies using historical data.
+
 ✅ Financial Modeling & Data Analysis – Developing models for equity research and portfolio performance assessment.
 ✅ Algorithmic Trading & Risk Management – Exploring systematic trading approaches with Python & financial libraries.
 ✅ Portfolio Optimization – Assessing asset performance using key financial metrics like Sharpe Ratio & ROI.
