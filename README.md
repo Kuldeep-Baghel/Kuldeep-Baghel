@@ -24,10 +24,7 @@
 🔹 Implements Golden Cross & Death Cross strategy using 50-SMA and 200-SMA.
 🔹 Generates Buy/Sell signals based on moving average trends.
 🔹 Backtested with an initial capital of ₹1,00,000 to analyze profitability.
-🔹 Key Takeaways:
-    ✅ Backtesting framework with yFinance, Pandas, and Matplotlib.
-    ✅ Trade execution & logging for tracking historical orders.
-    ✅ Equity curve visualization for portfolio performance analysis.
+
 
 🔗 **GitHub Repository**: [SMA Backtesting](https://github.com/Kuldeep-Baghel/PythonProjects/tree/main/Project1_%20SMA_Crossover_Backtesting)  
 
@@ -37,10 +34,7 @@
 🔹 Measures risk-adjusted returns for different asset classes.
 🔹 Analyzes historical stock data to assess investment performance.
 🔹 Uses Sharpe Ratio to compare returns relative to portfolio risk.
-🔹 Key Takeaways:
-✅ Data retrieval & analysis using yFinance, Pandas, and NumPy.
-✅ Performance comparison of assets based on risk vs. reward.
-✅ Sharpe Ratio visualization for informed decision-making.
+
 🔗 **GitHub Repository**: [Sharpe Ratio Analysis](https://github.com/Kuldeep-Baghel/PythonProjects/tree/main/Project2_%20Golden_Cross_Backtesting_with_Sharpe_Ratio)  
 
 ---
