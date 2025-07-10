@@ -37,11 +37,11 @@ Technologies: Python, Pandas, NumPy, Matplotlib, yfinance.
 ---
 🛠 Skills & Tools
 
-💡 Programming: Python (Pandas, Numpy, Matplotlib)
-💡 Market Data Sources: Yahoo Finance (yFinance), Alpha Vantage
-💡 Trading Strategies: SMA Crossovers, Trend-Based Strategies, Portfolio Performance Analysis
-💡 Risk Metrics: Sharpe Ratio, ROI, Volatility Analysis
-💡 Data Visualization: Matplotlib, Seaborn, Plotly
+💡 Programming: Python (Pandas, Numpy, Matplotlib)   
+💡 Market Data Sources: Yahoo Finance (yFinance), Alpha Vantage   
+💡 Trading Strategies: SMA Crossovers, Trend-Based Strategies, Portfolio Performance Analysis   
+💡 Risk Metrics: Sharpe Ratio, ROI, Volatility Analysis   
+💡 Data Visualization: Matplotlib, Seaborn, Plotly   
 
 ---
 
