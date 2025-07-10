@@ -21,11 +21,12 @@
 
 ### 📈 SMA Crossover Backtesting & Portfolio Analytics Tool
 
-•	Developed an interactive backtesting tool for SMA crossover strategies on historical stock data.
-•	Integrated user inputs for ticker, date range, capita and SMA periods to simulate customizable trading scenarios.
-•	Implemented core metrics: ROI, Sharpe Ratio, CAGR, Max Drawdown, Max Consecutive Losses.
-•	Enhanced Visualized with buy/sell signals, drawdown shading and portfolio performance charts using Matplotlib.
-•	Technologies: Python, Pandas, NumPy, Matplotlib, yfinance.
+🔹 Developed an interactive backtesting tool for SMA crossover strategies on historical stock data.  
+🔹 Integrated user inputs for ticker, date range, capita and SMA periods to simulate customizable trading scenarios.  
+🔹 Implemented core metrics: ROI, Sharpe Ratio, CAGR, Max Drawdown, Max Consecutive Losses.  
+🔹 Enhanced Visualized with buy/sell signals, drawdown shading and portfolio performance charts using Matplotlib.  
+
+Technologies: Python, Pandas, NumPy, Matplotlib, yfinance.
 
 🔗 **GitHub Repository**: [SMA Backtesting](https://github.com/Kuldeep-Baghel/PythonProjects/tree/main/P1.%20SMA%20Crossover%20Backtester%20%26%20Portfolio%20Analytics%20Tool)  
 
