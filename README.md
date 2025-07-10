@@ -19,13 +19,15 @@
 
 ## 🚀 Featured Projects  
 
-### 📈 SMA Crossover Backtesting Strategy
+### 📈 SMA Crossover Backtesting & Portfolio Analytics Tool
 
-🔹 Implements Golden Cross & Death Cross strategy using 50-SMA and 200-SMA.
-🔹 Generates Buy/Sell signals based on moving average trends.
-🔹 Backtested with an initial capital of ₹1,00,000 to analyze profitability.
+•	Developed an interactive backtesting tool for SMA crossover strategies on historical stock data.
+•	Integrated user inputs for ticker, date range, capita and SMA periods to simulate customizable trading scenarios.
+•	Implemented core metrics: ROI, Sharpe Ratio, CAGR, Max Drawdown, Max Consecutive Losses.
+•	Enhanced Visualized with buy/sell signals, drawdown shading and portfolio performance charts using Matplotlib.
+•	Technologies: Python, Pandas, NumPy, Matplotlib, yfinance.
 
-🔗 **GitHub Repository**: [SMA Backtesting](https://github.com/Kuldeep-Baghel/PythonProjects/tree/main/Project1_%20SMA_Crossover_Backtesting)  
+🔗 **GitHub Repository**: [SMA Backtesting](https://github.com/Kuldeep-Baghel/PythonProjects/tree/main/P1.%20SMA%20Crossover%20Backtester%20%26%20Portfolio%20Analytics%20Tool)  
 
 ---
 
