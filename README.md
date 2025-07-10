@@ -31,13 +31,7 @@
 
 ---
 
-### 📊 Sharpe Ratio Calculation & Risk-Adjusted Returns
 
-🔹 Measures risk-adjusted returns for different asset classes.
-🔹 Analyzes historical stock data to assess investment performance.
-🔹 Uses Sharpe Ratio to compare returns relative to portfolio risk.
-
-🔗 **GitHub Repository**: [Sharpe Ratio Analysis](https://github.com/Kuldeep-Baghel/PythonProjects/tree/main/Project2_%20Golden_Cross_Backtesting_with_Sharpe_Ratio)  
 
 ---
 🛠 Skills & Tools
